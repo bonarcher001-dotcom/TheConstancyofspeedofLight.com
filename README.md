@@ -276,7 +276,7 @@
 </div>
 
 <footer>
-    <p>Educational Resource on Special Relativity &copy; 2026</p>
+    <p>Created by CHMSU TALISAY BSED SCIENCE - 3A &copy; 2026</p>
 </footer>
 
 </body>
